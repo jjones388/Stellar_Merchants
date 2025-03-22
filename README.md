@@ -23,4 +23,5 @@ A 2D space trading game inspired by Elite, built with Python and Pygame.
 - ESC: Menu
 
 ## Screenshots
-(Add screenshots here when available)
+![Stellar_Merchants1](https://github.com/user-attachments/assets/8665b021-dcf8-4e9e-a9da-1911d689d4d4)
+
